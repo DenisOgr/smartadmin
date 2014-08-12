@@ -1,0 +1,18 @@
+{
+	"name": "denisog/yii2-smartadmin",
+	"description": "smartadmin",
+	"type": "yii2-extension",
+	"keywords": ["yii2","extension","smartadmin"],
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Denis Porplenko",
+			"email": "denis.porplenko@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"\\vendors\\denisog\\smartadmin\\": ""
+		}
+	}
+}
